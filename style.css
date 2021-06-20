@@ -33,7 +33,7 @@ p {
      z-index: 5000;
      box-shadow: 0px 0px 2px #fff;
      opacity: 0;
-     visibility: hidden;
+     visibility: hidden
 }
 .scrolltop.active{
      opacity: 1;
