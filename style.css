@@ -59,7 +59,7 @@ p {
 }
 .main-banner {
      width: 100%;
-     height: 120vh;
+     height: 100vh;
      background: linear-gradient(#2e2e2ed9, #2e2e2ec4), url(images/banner.png);
      background-size: 100% 100%;
      object-fit: cover;
